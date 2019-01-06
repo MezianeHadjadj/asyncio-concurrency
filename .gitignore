@@ -1,2 +1,6 @@
 # dotenv
 .env
+
+#bytecode
+__pycache__/
+*.pyc
