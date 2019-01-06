@@ -1,0 +1,18 @@
+{
+  "type" : "object",
+  "properties" : {
+    "address": {
+      "type" : "string"
+    },
+    "balance" : {
+      "type" : "string"
+    },
+    "number_of_transactions" : {
+      "type" : "number"
+    },
+    "created_at" : {
+      "type" : "string"
+    }
+  },
+  "required": ["address"]
+}
