@@ -9,13 +9,13 @@
   `○ $:> pip3 install -r requirements.txt`
 
 
-## How to run test locally
+## How to run tests locally
 
 `○ $:> python -m unittest discover`
 
-## Lint:
+## Linting:
 	pycodestyle .
 
-## Ho to run script:
+## Ho to run a script:
 
 `○ $:> python main.py`
