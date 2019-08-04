@@ -14,8 +14,10 @@
 `○ $:> python -m unittest discover`
 
 ## Linting:
-	pycodestyle .
+`pycodestyle .`
 
 ## Ho to run a script:
+
+`○ $:> . ./.env`
 
 `○ $:> python main.py`
