@@ -3,7 +3,9 @@
 
 ## Install python dependencies
   Note: you need to have Python: 3.4+.
+  
   `○ $:> pip3 install -r requirements-dev.txt`
+  
   `○ $:> pip3 install -r requirements.txt`
 
 
